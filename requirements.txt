@@ -1,0 +1,9 @@
+pandas
+psycopg2-binary
+seaborn
+matplotlib
+xgboost
+scikit-learn
+imbalanced-learn
+python-dotenv
+lightgbm
