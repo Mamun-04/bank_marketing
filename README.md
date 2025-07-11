@@ -1,4 +1,5 @@
 Customer Subscription Prediction
+
 This project predicts whether a customer will subscribe to a term deposit based on demographic and campaign-related features. 
 It involves data preprocessing, feature engineering, model training using a Voting Classifier ensemble, SMOTE to handle class imbalance, and threshold optimization for evaluation.
 
